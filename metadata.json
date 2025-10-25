@@ -1,0 +1,5 @@
+{
+  "name": "visualtoexcel V1.0",
+  "description": "Upload an image containing a table, and this application will use AI to extract the data into an editable spreadsheet format, which you can then download as a xlsx file.",
+  "requestFramePermissions": []
+}
